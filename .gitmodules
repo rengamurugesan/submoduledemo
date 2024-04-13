@@ -1,0 +1,3 @@
+[submodule "demoupdate"]
+	path = demoupdate
+	url = https://github.com/rengamurugesan/demoupdate
